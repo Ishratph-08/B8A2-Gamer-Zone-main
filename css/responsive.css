@@ -1,0 +1,24 @@
+
+@media screen and (max-width:576px) {
+    img{
+        max-width: 100%;
+    }
+    *{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .nav-item-container{
+
+       flex-direction: column;}
+    
+
+
+    .nav-container{
+
+        flex-direction: column;
+    }
+
+        
+
+    
+}

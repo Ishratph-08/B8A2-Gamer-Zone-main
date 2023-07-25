@@ -1,0 +1,198 @@
+*
+{
+    box-sizing:border-box;
+}
+.nav-container{
+    
+    height: 130px;
+   
+     margin-left: 240px;
+     margin-right: 240px;
+     display: flex;
+     align-items: center;
+    
+}
+.logo-container{
+    display: flex;
+    gap:20px;
+    width: 50%;
+    
+
+}
+.logo-container span{
+    color:#FF42A5;
+}
+.logo-container img{
+    /* background-color: ; */
+    margin-top: 20px;
+    height: 30px;
+    width: 70px;;
+    object-fit: cover;
+}
+.nav-item-container{
+
+width: 50%;
+justify-content:space-between;}
+
+.nav-item-container a{
+    text-decoration: none;
+    padding: 30px;
+
+}
+.follow-us
+{
+width: 262px;
+height: 20px;
+border-radius: 8px;
+background: rgba(11, 2, 35, 0.10);
+color: #3C354F;
+text-align: center;
+font-family: Work Sans;
+font-size: 15px;
+
+/* nav-bar ends here */
+
+}
+.banner-container{
+    height:420px;
+    background-color:#faf5f6db;
+    display: flex; 
+
+}
+
+.banner-text-container{
+    width: 50%;
+    height: 420px;
+    padding-left: 300px;
+    padding-top: 90px;
+   
+}
+.btn-1{
+    border: none;
+    background-color: #FF42A5;
+    color: aliceblue;
+    padding:10px 20px;
+    border-radius: 30px;
+
+
+}
+.btn-2{
+    border: none;
+    background-color: #6446cd;
+    color: aliceblue;
+    padding:10px 20px;
+    border-radius: 30px;
+
+}
+
+
+.banner-pic-container{
+    background-color:#faf5f6db;
+    width: 50%;
+
+}
+.weRgamer-sec-parent{
+
+display: flex;
+
+
+
+}
+
+.weRgamer-leftpic{ 
+    width:50%;
+    justify-content: center;
+    margin-left: 200px;
+
+
+}
+
+
+.weRgamer-text{
+    width: 50%;
+    
+    text-align: right;
+    margin-right:150px;
+}
+    /* justify-content: center; */
+    /* align-items: center;
+} */
+.purple-bold{
+    color: rgb(175, 36, 175);
+    font-stretch: expanded;
+
+}
+
+.goat{
+    color: rgb(228, 41, 191);
+}
+.btn-3{
+    border: none;
+    background-color: #FF42A5;
+    color: aliceblue;
+    padding:10px 20px;
+    border-radius: 30px;
+}
+.online-games{
+
+    text-align: center;
+}
+.online-games >h1 span{
+    color:rgb(230, 64, 230);
+
+}
+
+
+
+
+.pic-horizon{
+
+   display:flex;
+   justify-content: center;
+   gap:25px
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-container{
+
+
+
+
+}
+.footer-logo-container span{
+    color: white;
+    background-color: rgb(51, 50, 50);
+}
+
+
+
+
+
+
