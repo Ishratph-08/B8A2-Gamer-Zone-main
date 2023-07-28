@@ -1,23 +1,32 @@
 
 @media screen and (max-width:576px) {
-    img{
-        max-width: 100%;
-    }
+    
     *{
         margin-left: 0;
         margin-right: 0;
     }
-    .nav-item-container{
-
-       flex-direction: column;}
+    img{
+        max-width: 100%;
+    }
+    .logo-container {
+    flex-direction: column;
+    column-gap:20px;
     
-
-
+    }
+    
     .nav-container{
 
         flex-direction: column;
     }
 
+
+    .nav-items-container{
+
+       flex-direction: column;}
+    
+
+
+   
         
 
     
